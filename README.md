@@ -18,6 +18,7 @@ librerías "libpcap" cargadas.
 Forma de instalarlas bajo Ubuntu Linux:
 --------------------------------------
 sudo apt-get update
+---------------------------------------------
 sudo apt-get install libpcap-dev
 
 **********************************
