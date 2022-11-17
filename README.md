@@ -20,7 +20,7 @@ Forma de instalarlas bajo Ubuntu Linux:
 sudo apt-get update
 ---------------------------------------------
 sudo apt-get install libpcap-dev
-
+------------------------------------------------
 **********************************
 Este programa una vez compilado
 debe ejecutarse bajo administrador
